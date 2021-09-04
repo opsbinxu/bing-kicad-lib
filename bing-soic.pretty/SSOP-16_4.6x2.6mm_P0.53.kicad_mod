@@ -1,5 +1,5 @@
-(footprint "SOIC-16" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 613231FB)
+(footprint "SSOP-16_4.6x2.6mm_P0.53" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 61332C88)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -3.085) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -34,7 +34,7 @@
   (pad "14" smd oval (at 1.75 -0.42 270) (size 0.21 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d0e5c09c-0c34-4c35-a99a-35f1119ab5cd))
   (pad "15" smd oval (at 1.75 -0.95 270) (size 0.21 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d0e5c09c-0c34-4c35-a99a-35f1119ab5cd))
   (pad "16" smd oval (at 1.75 -1.48 270) (size 0.21 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d0e5c09c-0c34-4c35-a99a-35f1119ab5cd))
-  (model "C:/Users/Bing/Documents/GitHub/mouseJiggler/bing-kicad-lib/packages3d/bing-soic/SSOP-16_4.6x2.6mm_P0.53.step"
+  (model "${KIPRJMOD}/../../bing-kicad-lib/packages3d/bing-soic/SSOP-16_4.6x2.6mm_P0.53.step"
     (offset (xyz 0 -0.38 0.3))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
