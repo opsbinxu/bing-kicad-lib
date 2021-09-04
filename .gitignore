@@ -6,3 +6,4 @@
 *.kicad_sch
 dev/fp-lib-table
 dev/sym-lib-table
+dev/fp-info-cache
